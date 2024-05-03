@@ -126,6 +126,8 @@ class Film {
     "vote_average": voteAverage,
     "vote_count": voteCount,
   };
+
+  void toggleFavorite() {}
 }
 
 enum OriginalLanguage {
